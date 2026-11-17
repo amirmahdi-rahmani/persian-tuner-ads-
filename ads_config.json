@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "updated_at": "2026-11-17T12:00:00Z",
+  "updated_at": "2026-11-17T15:39:51.352Z",
   "interstitial_9_16": {
     "enabled": true,
     "use_default_sponsor_placeholder": false,
-    "image_url": "https://cdn.jsdelivr.net/gh/amirmahdir12/persian-tuner-ads@main/fullscreen_9_16.jpg",
-    "click_url": "https://t.me/amirmahdir12",
+    "image_url": "https://cdn.jsdelivr.net/gh/amirmahdi-rahmani/persian-tuner-ads-@main/ads/fullscreen_1794929989738.jpg",
+    "click_url": "https://myket.ir/app/KetabNama.amr12",
     "title": "محل تبلیغ شما",
-    "subtitle": "برای سفارش و تبلیغ کسب و کار خود در برنامه ما به تلگرام ما مراجعه کنید",
-    "button_text": "سفارش تبلیغ در تلگرام (@amirmahdir12)",
+    "subtitle": "",
+    "button_text": "دانلود",
     "show_bottom_button": true,
-    "skip_delay_seconds": 3,
+    "skip_delay_seconds": 12,
     "scale_mode": "crop"
   },
   "bottom_banner": {
