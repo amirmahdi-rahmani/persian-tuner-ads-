@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-17T12:00:00Z",
+  "interstitial_9_16": {
+    "enabled": true,
+    "use_default_sponsor_placeholder": false,
+    "image_url": "https://cdn.jsdelivr.net/gh/amirmahdir12/persian-tuner-ads@main/fullscreen_9_16.jpg",
+    "click_url": "https://t.me/amirmahdir12",
+    "title": "محل تبلیغ شما",
+    "subtitle": "برای سفارش و تبلیغ کسب و کار خود در برنامه ما به تلگرام ما مراجعه کنید",
+    "button_text": "سفارش تبلیغ در تلگرام (@amirmahdir12)",
+    "show_bottom_button": true,
+    "skip_delay_seconds": 3,
+    "scale_mode": "crop"
+  },
+  "bottom_banner": {
+    "enabled": true,
+    "use_default_sponsor_placeholder": false,
+    "full_image_url": "https://cdn.jsdelivr.net/gh/amirmahdir12/persian-tuner-ads@main/bottom_banner_6_1.jpg",
+    "icon_url": "",
+    "click_url": "https://t.me/amirmahdir12",
+    "title": "محل تبلیغ شما",
+    "subtitle": "برای سفارش تبلیغ و اسپانسرینگ در تلگرام کلیک کنید",
+    "button_text": "سفارش تبلیغ"
+  }
+}
