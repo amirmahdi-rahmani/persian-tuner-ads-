@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T09:07:39.728Z",
+  "updated_at": "2026-11-18T10:28:22.130Z",
   "interstitial_9_16": {
     "enabled": true,
-    "use_default_sponsor_placeholder": true,
-    "image_url": "",
-    "click_url": "https://t.me/amirmahdir12",
+    "use_default_sponsor_placeholder": false,
+    "image_url": "https://cdn.jsdelivr.net/gh/amirmahdi-rahmani/persian-tuner-ads-@main/ads/fullscreen_1794997700492.jpg",
+    "click_url": "https://cafebazaar.ir/app/KetabNama.amr12",
     "title": "محل تبلیغ شما",
     "subtitle": "",
-    "button_text": "دانلود",
+    "button_text": "دانلود از بازار",
     "show_bottom_button": true,
     "skip_delay_seconds": 12,
     "scale_mode": "crop"
@@ -23,5 +23,5 @@
     "subtitle": "برای سفارش تبلیغ و اسپانسرینگ در تلگرام کلیک کنید",
     "button_text": "سفارش تبلیغ"
   },
-  "pending_bot_mode": "fullscreen"
+  "pending_bot_mode": ""
 }
