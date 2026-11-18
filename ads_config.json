@@ -22,5 +22,6 @@
     "title": "محل تبلیغ شما",
     "subtitle": "برای سفارش تبلیغ و اسپانسرینگ در تلگرام کلیک کنید",
     "button_text": "سفارش تبلیغ"
-  }
+  },
+  "pending_bot_mode": "fullscreen"
 }
